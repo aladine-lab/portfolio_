@@ -86,12 +86,12 @@
               <p>
                 Vue Js
                </p>
-               <a style="cursor: not-allowed;">
+               <a href="https://github.com/aladine-lab/doctor-appointments" target="_blank">
                  View github sources 
                </a>
             </div>
-            <a class="info" style="cursor: not-allowed;">
-              <button style="cursor: not-allowed;">In Progress</button>
+            <a class="info" href="https://aladine-lab.github.io/doctor_appointments/" target="_blank">
+              <button>View Live Demo</button>
               <i class="fa-solid fa-right-long"></i>
             </a>
           </div>
